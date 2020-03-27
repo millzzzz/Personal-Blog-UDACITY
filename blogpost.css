@@ -1,3 +1,7 @@
+body {
+    font-family: Arial;
+}
+
 .head {
     height: 10vh;
     margin: 20px 0px;
@@ -19,4 +23,74 @@
 
 .aside {
     width: 30%;
+}
+
+hr {
+    opacity: 0.7;
+    max-width: 900px;
+    margin: 0px;
+}
+
+h1,
+h3 {
+    font-family: Arial;
+}
+
+p,
+a {
+    font-family: Arial;
+}
+
+a {
+    color: #005082;
+}
+
+footer {
+    height: 10vh;
+    margin-top: 40px;
+    text-align: center;
+    background-color: #f9f9f9;
+    font-family: Helvetica;
+}
+
+.myButton {
+    background-color: transparent;
+    border-radius: 28px;
+    border: 2px solid #000839;
+    display: inline-block;
+    cursor: pointer;
+    color: black;
+    font-family: Arial;
+    font-size: 17px;
+    padding: 16px 31px;
+    text-decoration: none;
+
+}
+
+.myButton:hover {
+    background-color: transparent;
+}
+
+.myButton:active {
+    position: relative;
+    top: 1px;
+}
+
+.myButton.orange {
+    border: 2px solid #f4b20b;
+}
+
+.side-mid {
+    display: flex;
+    flex-direction: column;
+}
+
+.links {
+    margin-top: 10px;
+}
+
+.side-top {
+    background-color: #f9f9f9;
+    border: 2px solid #000839;
+    padding: 5px;
 }

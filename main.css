@@ -72,8 +72,13 @@ h3 {
     grid-area: 3 / 2 / 4 / 3;
 }
 
-.div1, .div2, .div3, .div4, .div5, .div6 {
-    border: 2px solid #000839;    
+.div1,
+.div2,
+.div3,
+.div4,
+.div5,
+.div6 {
+    border: 2px solid #000839;
     padding: 5px;
 }
 
@@ -100,11 +105,11 @@ footer {
     color: #f4b20b;
 }
 
-p, a {
+p,
+a {
     font-family: Arial;
 }
 
 a {
     color: #005082;
 }
-
