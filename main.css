@@ -1,6 +1,7 @@
 h1,
 h3 {
     margin: 0;
+    font-family: Arial;
 }
 
 .head {
@@ -71,8 +72,39 @@ h3 {
     grid-area: 3 / 2 / 4 / 3;
 }
 
+.div1, .div2, .div3, .div4, .div5, .div6 {
+    border: 2px solid #000839;    
+    padding: 5px;
+}
+
 footer {
     height: 10vh;
-    margin-top: 20px;
+    margin-top: 40px;
     text-align: center;
+    background-color: #f9f9f9;
+    font-family: Helvetica;
 }
+
+.date {
+    color: darkgrey;
+    font-family: Helvetica;
+}
+
+.type {
+    font-family: Verdana;
+    color: #2b580c;
+}
+
+.type.world {
+    font-family: Verdana;
+    color: #f4b20b;
+}
+
+p, a {
+    font-family: Arial;
+}
+
+a {
+    color: #005082;
+}
+
