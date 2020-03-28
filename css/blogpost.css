@@ -76,10 +76,6 @@ footer {
     top: 1px;
 }
 
-.myButton.orange {
-    border: 2px solid #f4b20b;
-}
-
 .side-mid {
     display: flex;
     flex-direction: column;
@@ -93,4 +89,9 @@ footer {
     background-color: #f9f9f9;
     border: 2px solid #000839;
     padding: 5px;
+}
+
+figcaption {
+    font-family: Arial, Helvetica, sans-serif;
+
 }

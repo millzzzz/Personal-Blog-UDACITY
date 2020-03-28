@@ -1,0 +1,14 @@
+.date {
+    color: darkgrey;
+    font-family: Helvetica;
+}
+
+.type {
+    font-family: Verdana;
+    color: #2b580c;
+}
+
+.type.world {
+    font-family: Verdana;
+    color: #f4b20b;
+}

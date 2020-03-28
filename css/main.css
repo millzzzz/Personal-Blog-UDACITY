@@ -1,0 +1,42 @@
+@import "blog-grid.css";
+@import "blog-child-style.css";
+@import "blogpost.css";
+
+
+h1,
+h3 {
+    margin: 0;
+    font-family: Arial;
+}
+
+p,
+a {
+    font-family: Arial;
+}
+
+a {
+    color: #005082;
+}
+
+.myButton {
+    background-color: transparent;
+    border-radius: 28px;
+    border: 2px solid red;
+    display: inline-block;
+    cursor: pointer;
+    color: black;
+    font-family: Arial;
+    font-size: 17px;
+    padding: 16px 31px;
+    text-decoration: none;
+
+}
+
+.myButton:hover {
+    background-color: transparent;
+}
+
+.myButton:active {
+    position: relative;
+    top: 1px;
+}
