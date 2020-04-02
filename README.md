@@ -8,5 +8,5 @@ CSS Grid,
 Flexbox,
 Media Queries
 
-
+Project can be found here: https://senik456.github.io/Personal-Blog-UDACITY/
 
