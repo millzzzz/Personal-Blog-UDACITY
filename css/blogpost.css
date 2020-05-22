@@ -18,6 +18,7 @@ body {
 
 .article {
     width: 70%;
+    margin: 20px;
 }
 
 
@@ -79,7 +80,6 @@ footer {
 .side-mid {
     display: flex;
     flex-direction: column;
-    margin-right: 20px;
 }
 
 .links {
@@ -90,7 +90,6 @@ footer {
     background-color: #f9f9f9;
     border: 2px solid #000839;
     padding: 5px;
-    margin-right: 20px;
 }
 
 figcaption {
