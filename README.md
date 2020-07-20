@@ -1,12 +1,12 @@
 # Personal-Blog-UDACITY
-A simple personal blog website mockup created based on the provided design by Udacity
+During the quarantine period, I have decided to make most out of it- improve my skills and overall personal value. As part of the FEND certification provided by [Udacity](https://www.udacity.com/), I was supposed to create a personal blog site. 
 
-USED Concepts:
-HTML,
-CSS
-CSS Grid,
-Flexbox,
-Media Queries
+[Check out the live site](personal-blog-udacity.netlify.app)
 
-Project can be found here: https://senik456.github.io/Personal-Blog-UDACITY/
+## Built with
+- HTML,
+- CSS
+- CSS Grid
+- Flexbox
+- Media Queries
 
